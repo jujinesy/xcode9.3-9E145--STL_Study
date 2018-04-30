@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2852074D2097C50400E6B02D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2852074C2097C50400E6B02D /* main.cpp */; };
+		285207572097C6B500E6B02D /* 01.13.02.14-STL_Study.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 285207562097C6B500E6B02D /* 01.13.02.14-STL_Study.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		285207492097C50400E6B02D /* Xcode9.3(9E145)-STL */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Xcode9.3(9E145)-STL"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2852074C2097C50400E6B02D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		285207562097C6B500E6B02D /* 01.13.02.14-STL_Study.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "01.13.02.14-STL_Study.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				2852074C2097C50400E6B02D /* main.cpp */,
+				285207562097C6B500E6B02D /* 01.13.02.14-STL_Study.cpp */,
 			);
 			path = "Xcode9.3(9E145)-STL";
 			sourceTree = "<group>";
@@ -118,7 +120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2852074D2097C50400E6B02D /* main.cpp in Sources */,
+				285207572097C6B500E6B02D /* 01.13.02.14-STL_Study.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
